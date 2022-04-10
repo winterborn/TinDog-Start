@@ -2,7 +2,7 @@
 
 Project to create responsive website using HTML, Bootstrap frameworks and CSS.
 
-From The Complete 2022 Web Development Bootcamp [Curriculum](https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244) | [The App Brewery](https://www.appbrewery.co/)
+From: [The Complete 2022 Web Development Bootcamp Curriculum](https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244) | [The App Brewery](https://www.appbrewery.co/)
 
 ## Built with:
 
