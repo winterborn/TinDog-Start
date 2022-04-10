@@ -1,5 +1,5 @@
 body {
-    font-family: Montserrat, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -44,7 +44,6 @@ p {
 
 .navbar-brand {
     font-family: Ubuntu, sans-serif;
-    font-weight: ;
     font-size: 2.5rem;
 }
 
@@ -141,4 +140,41 @@ p {
 
 .pricing-column {
     padding: 3% 2%;
+}
+
+
+
+/* Call to Action Section */
+
+#cta {
+    background-color: #ff4c68;
+    color: #ffffff;
+    padding: 6% 13%;
+    text-align: center;
+}
+
+
+/* Footer Section */
+
+#footer {
+    padding: 4% 12%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+
+/* Media Queries - Breakpoints  */
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
 }
