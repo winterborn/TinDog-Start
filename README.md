@@ -28,7 +28,7 @@ From: [The Complete 2022 Web Development Bootcamp Curriculum](https://www.udemy.
 - Used HTML5 & Bootstrap frameworks to create responsive structure.
 - Used CSS3 grid and flex to create layout.
 - Used Git and GitHub for project management.
-- Tried to maintain clean code.
+- Tried to maintain clean code through refactoring and clean-up.
 - Cross tested on Firefox and Chromium based browsers.
 
 ## Summary:
@@ -37,6 +37,7 @@ From: [The Complete 2022 Web Development Bootcamp Curriculum](https://www.udemy.
 
 Better knowledge of responsive frameworks.
 Developed an understanding of Git and Github for version control.
+Better understanding of refactoring of code.
 
 ## Author:
 ### 👤 winterborn
